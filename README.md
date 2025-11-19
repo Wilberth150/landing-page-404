@@ -41,6 +41,7 @@ landing-page-404/
 ├── index.html   # Main HTML file (landing content and sections)
 ├── style.css    # Global styles, layout, responsive rules
 └── script.js    # Basic interactivity (mobile menu, etc.)
+
 📱 Main Features
 Hero section with a short introduction and call to action.
 
